@@ -1,0 +1,26 @@
+{
+  "name": "Genevieve Holmes",
+  "age": 26,
+  "address": {
+    "street": "Pisre Point",
+    "city": "Pasuuk",
+    "state": "OR",
+    "zip": "71731"
+  },
+  "contact": {
+    "phone": "(656) 344-1891",
+    "servicePhone": "800181666"
+  },
+  "birthday": "2006-02-13T06:08:33.555Z",
+  "ip": "240.167.196.238",
+  "foo": "bar",
+  "profile": {
+    "about": "Unvinte uginuwan adras ulorahpe kokildom povwu ote fo dawjatan uka jesto pupu zavwuse vocliska bufoge. Venafi wum filur muk vocilivun ut jagute paz gari eflaljoh dogic nam. Dirucig vonverel nifuwfu sarunuwa hi ocwo enueho bu ijiitpuf subogut iftan gukzavlem cu da guircoj lejvetzol. Wiwmiwomu lol lob cewdenoz tewtiluv konvocvi kuhluaju vagpam ro lohosako ha min kiukfe. Mouro uhja ful ubego ipeac racdupwah pu ulija saaleke kajzip fuuzouf wevepag.",
+    "bio": "Ihheb joih memap isiava ogoduew rirem woptar sez jopca fahuf gawumid wohot lu bippe. Oz uhabilbe voekeri joj kafeb hondowul idpa mozo lirdomu nadbeaja cezi howre ihu el lapah igu ifu lu. Igzojduc ru camilair osajeji puib duka guhubiji wemul rohib dit ulo hakup saborzi nuv pielbi acekad puzke."
+  },
+  "apiKey": "f4278a5a2c2577e3cff09a0802d0e13bd542ae0c86ed67b698229dc133182d3a",
+  "currency": {
+    "code": "IMP",
+    "name": "Isle of Man Pound"
+  }
+}
