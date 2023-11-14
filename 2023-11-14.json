@@ -1,0 +1,26 @@
+{
+  "name": "Lucile Alvarez",
+  "age": 59,
+  "address": {
+    "street": "Fabis Parkway",
+    "city": "Piidot",
+    "state": "LA",
+    "zip": "71919"
+  },
+  "contact": {
+    "phone": "(671) 386-8816",
+    "servicePhone": "800144593"
+  },
+  "birthday": "1965-02-28T04:45:12.450Z",
+  "ip": "252.15.198.233",
+  "foo": "bar",
+  "profile": {
+    "about": "Kihac ulavgal peob feozaiz mani occop uda ihi idebik tuwjimeki dar gutavaba doftugu kumonpiw mam cevaler ji. Zov ras mu ozmap kem ri zaho racdef koveb harba jub goizod cew vike micinis gufbaw. Gube ho absacgi fo kiwouzi husu zogobow zu marnaju kegvaru ko ze galauta loib.",
+    "bio": "Lepiplot fajjamja utubonir hu omaih siwdo vuz zajobawo migto muvusho wajregar ke pobevalip ka no obe sali. Le gepbuewe tigu ruk suk gapedu ju cob ru zusgajlu sepusa mecfa nuf sifbo gec ju. Ni cimwilkis guta pas ti ut pek cepi wak cudroh je upmead iribume hofbaven cufa upfopna."
+  },
+  "apiKey": "9df30456ca336f31e22382fe84ea6a594452f7eea1279070d5ce94e8e9e20093",
+  "currency": {
+    "code": "MDL",
+    "name": "Moldova Leu"
+  }
+}
