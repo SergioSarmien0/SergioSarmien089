@@ -1,0 +1,26 @@
+{
+  "name": "Gilbert Henderson",
+  "age": 56,
+  "address": {
+    "street": "Hidoz Plaza",
+    "city": "Tespina",
+    "state": "KY",
+    "zip": "52448"
+  },
+  "contact": {
+    "phone": "(423) 361-8843",
+    "servicePhone": "800544653"
+  },
+  "birthday": "1965-04-21T23:22:53.774Z",
+  "ip": "145.40.137.167",
+  "foo": "bar",
+  "profile": {
+    "about": "Bal lezugjar duhuva ku wuhzahes gezo lawjek hi mesvon heop vav nifzul tucgaigi vuval sesav. Vamumpe usabup visge eh mueduli ucni sewnu ovu mun anme turoro gugmupej likon. Mi juse poravep igovave kizigeh poha sositel idve pukadsi jikfe go gurodwi teborli ganminug cujfobot duwacmo meb lic.",
+    "bio": "Le hisikow poiborof ucete av ele ru zi norzi ico duf ki gacabaja levas izilasu kanfub mirihnub. Fuvoh zic fen lofuuja mutgupad wodaw rivnigis awe cok lur umi ukavurnav zatret. Oteluvdo raktibci va telo cit uthotva uzacenef zusub guktozsit bojij zu ta guzu kanon tonizra rez levbig duvcadov."
+  },
+  "apiKey": "571a6c2bc5e5d126a5976d9b8c4ab77e81ed29826b5b12b901f7b7ef376e4640",
+  "currency": {
+    "code": "SRD",
+    "name": "Suriname Dollar"
+  }
+}
