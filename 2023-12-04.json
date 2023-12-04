@@ -1,0 +1,26 @@
+{
+  "name": "Theodore Daniel",
+  "age": 41,
+  "address": {
+    "street": "Buva Street",
+    "city": "Woahkel",
+    "state": "TX",
+    "zip": "90272"
+  },
+  "contact": {
+    "phone": "(468) 464-3994",
+    "servicePhone": "800356827"
+  },
+  "birthday": "1964-06-26T07:24:42.336Z",
+  "ip": "79.210.115.225",
+  "foo": "bar",
+  "profile": {
+    "about": "Jib giv wivofud ce jen jofnuc ni degiswi hij lac java kifo hin mon kuizuco ta cer. Onzep egusa juju envij bo uzac batoha ami ura ah opelewe me te. Naivfe risitco og po ced izofenwum zetopaw oddem obuaneohu pi imisa tomut kiefrag imefaiwo icovahlu ed.",
+    "bio": "Zoli zi idumoga caf zuhiw debmader gu wejas abapugwi voseva nen je kotuna pefit ege derba sovzo na. Fec lirle an dumub pid obpu bocnek wi vismuc buz ce feh dozoisi doc magcug tar jemu. Wifwut pel ulgocju letahot repnoflu ti fooj emeruuca jem juvnogih mutci ujifefi."
+  },
+  "apiKey": "c5e7de587c8df6bc4d16e14e6f3cc6e2bc1792a0e44d960c14cf0ee891f5dd29",
+  "currency": {
+    "code": "BTN",
+    "name": "Bhutan Ngultrum"
+  }
+}
