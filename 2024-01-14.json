@@ -1,0 +1,26 @@
+{
+  "name": "Keith Meyer",
+  "age": 41,
+  "address": {
+    "street": "Lafmo Boulevard",
+    "city": "Edsahit",
+    "state": "SD",
+    "zip": "88906"
+  },
+  "contact": {
+    "phone": "(948) 872-2706",
+    "servicePhone": "800345714"
+  },
+  "birthday": "1992-10-15T18:09:06.936Z",
+  "ip": "242.242.50.100",
+  "foo": "bar",
+  "profile": {
+    "about": "Tapjo menil surab pauho fu hezmienu siaj suh erdulgu li acifafid oklur nafkupa raw. Josludak lujuvu evepe nihfait ce lag dakmola dasuj ripiba vab remid wadkaeji borku ig na jucdog. At gigleha tuvhecik dugoziru guokilag kuhec puv ozunuj iga nu rollelbo ojowibam weipbi cecafo hulam zelupka. Je pe dawmic makevjon apopoje jisfumsi zigoje uveder imu vabipfaj et osbuko caclod sas.",
+    "bio": "Tisuj gohpekne dijolic zopzef rismah wicsotwi ripafus budocu ikica izu jew ge ja. Kucemad lowim va ken zoulalu delzufes zi ufmozica ni zarre ko ul. Ino vuihawan ohrom jamci fazmawni van melaraos luk vufago hobup tisooh keubvo la ota metog ubu fuwpav kecwiwi. Hi tonped ineile funause zahid rofa ihikuwil ewve uvwaz egenemi terpi logow sewozi."
+  },
+  "apiKey": "c162cb762a29327e389c898fe94a8ceb916cf34a37ec8f32a45f82fbb3be4b8b",
+  "currency": {
+    "code": "PKR",
+    "name": "Pakistan Rupee"
+  }
+}
