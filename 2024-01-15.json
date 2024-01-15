@@ -1,0 +1,26 @@
+{
+  "name": "Gavin Obrien",
+  "age": 42,
+  "address": {
+    "street": "Abogod Point",
+    "city": "Ibewuso",
+    "state": "TN",
+    "zip": "23476"
+  },
+  "contact": {
+    "phone": "(874) 905-6558",
+    "servicePhone": "800686814"
+  },
+  "birthday": "1986-05-02T07:32:03.930Z",
+  "ip": "194.143.193.167",
+  "foo": "bar",
+  "profile": {
+    "about": "Fesmo voehuuk zinujer co bet paotgev eskak fu wa urjil pojup ufe ifidor zemak liv vu fam wur. Vof zofdum navfoj warnompuz kifahi dusga viwnoh jub vud gil niuvicu ge moazu gi leisi ajwe mullan. Ihmoze jawiapi bub muco rawupavol zo toluwfe jo wohobdo ri afcij lejep rawac se wafmilmu.",
+    "bio": "Mesab joofere lujtah vemiw ukafikef ne erzovju zeniras tuvbofno giewajiz telbap asi wohvev cuho gok jad isausali fam. Zeorito fuwmozazu tibanpef jojnohub cooh fohosoz adro og lopop wocembi dezu wihut ugo fa huv pi parih hujef. Baarob ked cagzasduc kav rugwi icuiblof saw dogfe uslah isiub oj la ewsodoto pur."
+  },
+  "apiKey": "20bb1098eb8e7262f8b7129518a20ced18153d5a287f9d03b5953ac6a5077c10",
+  "currency": {
+    "code": "BDT",
+    "name": "Bangladesh Taka"
+  }
+}
