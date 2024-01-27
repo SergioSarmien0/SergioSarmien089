@@ -1,0 +1,26 @@
+{
+  "name": "Abbie Wilkins",
+  "age": 24,
+  "address": {
+    "street": "Nazhuk Park",
+    "city": "Colardu",
+    "state": "MO",
+    "zip": "85797"
+  },
+  "contact": {
+    "phone": "(865) 889-1348",
+    "servicePhone": "800696694"
+  },
+  "birthday": "2005-03-22T00:30:20.580Z",
+  "ip": "38.235.168.149",
+  "foo": "bar",
+  "profile": {
+    "about": "Tewona hir esuku wovoclu odetomet obtolwi bu uwe lickej cu watduz dadpoz eza fim jiska omuwedi tewleru. Zamanina ig puzdivup iz fegdow vu barkezin uklenij liwwe ru le te mise pajhol hicucra. Nu fiwawi luv jurejri deb regu dubibu sussukjeh bu rona luzbotja cukfekga mudsobu. No adaki zun heb olusih cobpavlul luifsij ibanadlam rinirji fivi opidig rahdu ijka juwleban bikdi hakez. Rohcabvod iccap galhi ru upzorzoh kioh hiduzde hafwegud pacmepum wapuclif li vecutto no novni ita. Goawa tialo pubude edek opnuc ujo ron ze maecfun ruz jabaj majre zugiv guvlehsed gimda.",
+    "bio": "Copre tanpad fovemo wowabru vek gav der zesno po kein hilentuv zob tirkubjel zo. Jepsupub vobajepa zugoc abegog opgifug uhceate wu tecgat hoc ce satwef mijulo azjofa awazirati zahzez fumof. Lec suhpi va gad lirvam hib tanu da zisapwi aci vihezru go tagfavhep."
+  },
+  "apiKey": "b85e1640133dea3cd25ea7cd3a62d55cc8d6dd8fa6e09f64d9945befb971ed53",
+  "currency": {
+    "code": "OMR",
+    "name": "Oman Rial"
+  }
+}
