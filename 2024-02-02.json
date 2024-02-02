@@ -1,0 +1,26 @@
+{
+  "name": "Lewis Black",
+  "age": 48,
+  "address": {
+    "street": "Opzec Glen",
+    "city": "Tujonu",
+    "state": "WA",
+    "zip": "56151"
+  },
+  "contact": {
+    "phone": "(678) 276-8614",
+    "servicePhone": "800145642"
+  },
+  "birthday": "1991-11-03T09:10:00.540Z",
+  "ip": "145.242.101.242",
+  "foo": "bar",
+  "profile": {
+    "about": "Avu satfi loof terude pegtan jadic zacho luezuop aja ot sasuvrav lupali luglu mi fup rulit. Aweavuje dugigas zupcic tepif uricopo fuogupe ku mabnan erisodse semzi lanoke buhebom jolilku duvahsi fopis ruf honorog. Hikopo pav suphac sob dizteh cul nauka uzu tendo sooci zekma pitellud pepidoga bicco.",
+    "bio": "Ada na ilbivgi paappe afi mon cenoul miuru jeedaifo safegug sa miz te ecoro fe. Hapcu za le vut wuwnukpur zor wihawno nigip ru naepu zupnogira hoenvur sa gulwectag gam. Pi anagolem cas rosovde lalabul somhe otguce vaiw os ezopo maviriob fotiih. Vegus iraatuwu mek ca du ufawuzi odfusi ejivicne cechalkiz sitanfa riwvet aclasda nugkaoj juesotol."
+  },
+  "apiKey": "4ec12e1df25df43660ca5080f98a8280765e2996f701f2aa0b892a4d621fa120",
+  "currency": {
+    "code": "KES",
+    "name": "Kenya Shilling"
+  }
+}
