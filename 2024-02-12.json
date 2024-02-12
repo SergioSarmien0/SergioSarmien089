@@ -1,0 +1,26 @@
+{
+  "name": "Dorothy Wolfe",
+  "age": 64,
+  "address": {
+    "street": "Suuf Heights",
+    "city": "Rakuhalu",
+    "state": "TX",
+    "zip": "24689"
+  },
+  "contact": {
+    "phone": "(817) 630-5851",
+    "servicePhone": "800597431"
+  },
+  "birthday": "1986-02-22T15:28:19.121Z",
+  "ip": "91.200.172.175",
+  "foo": "bar",
+  "profile": {
+    "about": "Ugu toj coedano dikladot taw apdazti ekeej de wasiva ihobemhak juhohis ijeza ake abka jibofvaj ziscuwi zogilu zubisu. Ziew papaew be but cuj jumov fepigit bewuvliw odajuopi ehitasok lir zi. Wu pu nivogbes lahug fadu pih la givina cu irbijcew ihohemo tavejijo na pun ed duag ubpozpe bim.",
+    "bio": "Canewel luos osmit rejwe muudci orco gic fusatim uboah noaztoc jahiuli deloz. Unihes zo asa mij utisugog lac ib pumari biwe kivcumuf fofmif aswabfi judlef pagdel howna adu fakedupid udowet. Su jur abrab bud wu mapoak tocpo koc gineden co mompolom lube ziabogo bazzun go kunbage sojsiw omisugu."
+  },
+  "apiKey": "86fce1c06a829cf93b54e04d47a04eb8241b2bdc9f0cec0208d582726238b6e4",
+  "currency": {
+    "code": "PYG",
+    "name": "Paraguay Guarani"
+  }
+}
