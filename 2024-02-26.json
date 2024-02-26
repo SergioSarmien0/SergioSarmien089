@@ -1,0 +1,26 @@
+{
+  "name": "Roy Hayes",
+  "age": 57,
+  "address": {
+    "street": "Mukra Grove",
+    "city": "Mepcuvhac",
+    "state": "IN",
+    "zip": "06907"
+  },
+  "contact": {
+    "phone": "(586) 982-7584",
+    "servicePhone": "800784172"
+  },
+  "birthday": "1999-12-24T12:33:03.749Z",
+  "ip": "123.63.112.60",
+  "foo": "bar",
+  "profile": {
+    "about": "Ju uf ihewe tugobib wuwbevsuz momaca wabjegari poituzi juhha nifool le kugegapo wefil kire. Olurijwo juh lezawuk jewre johliwuf bosnib zedutibo ista farfolov ruf upa nutvein. Ku gok hob jon naw ose wocom natersa wiwfi ciddi gimuefe gir meuw dorvuf ve. Etedol zo duktebco deci jaigu azku bozpo rorce te hilo sunrej tehimof.",
+    "bio": "Kig lugzi nu vicad binom unuhule sirgelpuj patguwa focuzi gigu lu lepifa jaohu ro ica imbij wafuz lumif. Ca hic mig vonaoge dilmihoj ruzaho deza or ce oka adfala hieli hoto jopilep. Duv uripi ip wo mar irlof evouj ehru soekasi ca lezbok vebi."
+  },
+  "apiKey": "dd62cc3ea581f1519dde2b11cc8484a233af339ae716c68f0c586e9b752cb61e",
+  "currency": {
+    "code": "CRC",
+    "name": "Costa Rica Colon"
+  }
+}
