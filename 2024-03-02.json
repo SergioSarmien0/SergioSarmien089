@@ -1,0 +1,26 @@
+{
+  "name": "Brett Greene",
+  "age": 50,
+  "address": {
+    "street": "Pukav Point",
+    "city": "Rolcocewi",
+    "state": "NC",
+    "zip": "56876"
+  },
+  "contact": {
+    "phone": "(271) 298-7846",
+    "servicePhone": "800276298"
+  },
+  "birthday": "1992-04-19T03:29:38.670Z",
+  "ip": "219.114.115.112",
+  "foo": "bar",
+  "profile": {
+    "about": "Towfigliw wo puuhoko hol zoadpu bubwa kare caf veb dozoho vev nucmiguc azutipop badcodri mufo zi nanuc. Ezbed urlafa zu lezzaf he egnicaku wuvpaza zafojo gi leluh nifob bajib juc. Jipajha ilkokpom vezorgu vokzamlij fe vohep arlez regba huwafoehu lajolzo feraumu id ehjaj. Aliod nol obe ednignar fe lonofad tojig sa ga laro cu patazcol uza.",
+    "bio": "Bihasec odcuav lorvenub wopih risze ele ji veuhi ge ataago ju tat ulpafek cesiwo etikal wi laj. Ibu gokmiwi deksi vo meversa uz ra ra mazeb idbu felkev vo zakhaz bu le supac. Aleuno lofokike nu botuk buh vu cepudiv uj uh ceal hed jotgo."
+  },
+  "apiKey": "8da8e1b9bd4371bd15e1f32fdec1d3980d338bc1934ba0fbf8d5bc00c4b02b1a",
+  "currency": {
+    "code": "TMT",
+    "name": "Turkmenistan Manat"
+  }
+}
