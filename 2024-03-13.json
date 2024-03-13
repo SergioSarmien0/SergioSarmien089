@@ -1,0 +1,26 @@
+{
+  "name": "Jimmy Walton",
+  "age": 22,
+  "address": {
+    "street": "Notwo Point",
+    "city": "Belsaho",
+    "state": "MI",
+    "zip": "28767"
+  },
+  "contact": {
+    "phone": "(716) 755-9226",
+    "servicePhone": "800847889"
+  },
+  "birthday": "1998-06-22T15:48:56.956Z",
+  "ip": "41.69.153.214",
+  "foo": "bar",
+  "profile": {
+    "about": "Gowdesiz kuekeju tevugob kibpa afci fo itozo jug uppug fimucop ahu uda vo dekuso vec mumlar ta tajidna. Pedow zeilusak opubuc soj kezelvow tiwih rowed rapcu palujen emewituto urufof gi. Maapzi eb jembouc cujsobfi wa kivuval tekisdal wajjakpu oro ulu sigguje magenre. Bi lafwepok fatmuko ruma lozbowbi sob venaf nozadi par fakefeseg wazlot ihda ubu gehsalok rawfi rud muwi.",
+    "bio": "Puknur ebiha onuw hausarom suviki isodafon itasuk va la owka jepewok zub nouzjas vegashem. Umuwipi wi hiw arwipo abe tavfep fuzo ozu vu gebboshi ekbinjon utufir gafile arhe nowcim kipgal fiifkal. Lan nuw rilbigo umreben upwe uciweeb ritcevami kigafam edwebzit iftivil zidi panru pakimza vomavubac dolecoki umrij he bo."
+  },
+  "apiKey": "61f4a2bca88c632d8f20ca770cb7aa3d3f70731f620b1cbb51380ea9a9d83174",
+  "currency": {
+    "code": "RUB",
+    "name": "Russia Ruble"
+  }
+}
