@@ -1,0 +1,26 @@
+{
+  "name": "Bryan Cobb",
+  "age": 29,
+  "address": {
+    "street": "Pofi Street",
+    "city": "Uwinebe",
+    "state": "ID",
+    "zip": "03587"
+  },
+  "contact": {
+    "phone": "(370) 400-1810",
+    "servicePhone": "800219478"
+  },
+  "birthday": "1959-01-26T17:22:00.403Z",
+  "ip": "124.147.208.19",
+  "foo": "bar",
+  "profile": {
+    "about": "Rapoj zug we disev sibmilgat taiko vadrobmok goonrem le jenivi nev etfe ubizi. Ruc sulapnoj pusim kaoje irifo vew ceon ilceegi wokega ga upe copgi hajo nonab. Pu roriksu mi ci dej pila oveogobe girur nuw de jip fo vinbuv puis fe tokudak.",
+    "bio": "Ipdit sa lipohhuz le sapadib ludruaso hago zi sukhe rebgo ove mitefepe id. Aclaowe wevir dut vavnusi lun likigu kiplipu abafaco notpa bodedwa agane hiiwite itaehfar aroni ho. Zatiw zukug jurebma jiz ronilufa vadwejeba dupvis be ijveati ze irohuc wigbirow up kut. Jezji giavi ha capamgon vid onkenet foj li he mi fesnurca ig asagigki nul en fomi. Luzhudu ufauju dap evo wereliho wewewer soc wow zon he rifgolan selil omuwafa sakra kegib esipenpuc."
+  },
+  "apiKey": "2628b29592b99af8f69dd4563be855e79821a240d1dc2f6f8a0cf4ea90ffa4c5",
+  "currency": {
+    "code": "KRW",
+    "name": "Korea (South) Won"
+  }
+}
